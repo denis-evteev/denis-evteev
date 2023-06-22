@@ -15,8 +15,11 @@ In my free time, I dedicate myself to professional development and training as I
 [<img src="https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png">](https://www.credly.com/badges/cf0a7d6e-2856-411d-8094-efe4bc37d3ff)
 [<img src="https://images.credly.com/size/110x110/images/526ad7ad-52f2-4922-9fa8-879fea71e286/image.png">](https://www.credly.com/badges/b9c41b7d-c4ea-45fd-a885-5236bd49087e)
 [<img src="https://images.credly.com/size/110x110/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png">](https://www.credly.com/badges/4c95b826-9006-47a3-a1ec-3485fb544500)
+<img src="https://github.com/denis-evteev/denis-evteev/assets/3929460/b47b5144-e978-4d34-b63c-d8cf1cc20de7" width="110">
+<img src="https://github.com/denis-evteev/denis-evteev/assets/3929460/051d6271-bfe3-486c-a31d-a9195efd63e1" width="110">
+<img src="https://github.com/denis-evteev/denis-evteev/assets/3929460/92885f15-ab9c-4a11-9b1a-6ff54ccf59f0" width="110">
 
-See all my current certifications on [Credly](https://www.credly.com/users/denis.evteev)
+See all my current certifications on [Credly](https://www.credly.com/users/denis.evteev).
 
 ## My Career and Projects
 
