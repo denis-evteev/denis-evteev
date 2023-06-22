@@ -4,7 +4,7 @@ I'm an experienced AWS certified solutions architect and DevOps engineer, passio
 
 Right now, I'm actively seeking new opportunities to take my career to the next level. If you're in need of a skilled cloud architect, I'd be thrilled to connect with you. Let's collaborate and create amazing things in the cloud!
 
-Take a look at my profile on [LinkedIn](https://www.linkedin.com/in/denis-evteev/).
+Feel free to reach me through [LinkedIn](https://www.linkedin.com/in/denis-evteev/).
 
 ## My Certifications and Achievements
 
