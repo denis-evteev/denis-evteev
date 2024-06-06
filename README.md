@@ -2,7 +2,7 @@
 
 I'm an experienced AWS certified solutions architect and DevOps engineer, passionate about leveraging modern cloud tools to build high-performing, reliable, secure, scalable, and cost-efficient solutions. I'm constantly exploring new advancements in the field and love expanding my knowledge.
 
-Right now, I'm actively seeking new opportunities to take my career to the next level. If you're in need of a skilled cloud architect, I'd be thrilled to connect with you. Let's collaborate and create amazing things in the cloud!
+I currently work as a Platform Engineer at [Xero](https://xero.com), where I contribute to the development of reliable and scalable accounting software for small businesses around the globe.
 
 Feel free to reach me through [LinkedIn](https://www.linkedin.com/in/denis-evteev/).
 
